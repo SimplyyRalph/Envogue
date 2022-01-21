@@ -22,3 +22,24 @@ body {
     color: rgb(166, 119, 44);
 }
 
+.middle {
+    background-color: black;
+
+}
+
+.middle h1 {
+    color: rgb(166, 119, 44);
+}
+.gallery {
+    height: 740px;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
